@@ -22,3 +22,11 @@ public static void zippo(String quince, int flag) { /* 3 *//* 11 */
         }
 }
 }
+
+//3. "rattle"
+/*4.
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
+ */
